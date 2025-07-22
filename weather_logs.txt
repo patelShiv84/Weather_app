@@ -1,0 +1,49 @@
+
+--- Weather Data for ---
+location    : Surat
+Date & Time : 2025-07-22 15:56:09.336093
+temperature : 30.55°C
+Weather Condition   : Overcast Clouds
+----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Surat
+Date & Time : 2025-07-22 16:01:10.826406
+temperature : 29.51°C
+Weather Condition   : Broken Clouds
+----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Goa
+Date & Time : 2025-07-22 16:08:24.393744
+temperature : 25.61°C
+Weather Condition   : Overcast Clouds
+----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Rajkot
+Date & Time : 2025-07-22 16:08:54.044957
+temperature : 31.55°C
+Weather Condition   : Broken Clouds
+----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Surat
+Date & Time : 2025-07-22 16:11:16.616050
+temperature : 29.5°C
+Weather Condition   : Broken Clouds
+----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Ahmedabad
+Date & Time : 2025-07-22 16:20:26.190111
+temperature : 29.91°C
+Weather Condition   : Overcast Clouds
+----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Indore
+Date & Time : 2025-07-22 16:20:58.279684
+temperature : 25.71°C
+Weather Condition   : Overcast Clouds
+----------------------------------------------------------
