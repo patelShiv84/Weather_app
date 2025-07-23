@@ -47,3 +47,17 @@ Date & Time : 2025-07-22 16:20:58.279684
 temperature : 25.71°C
 Weather Condition   : Overcast Clouds
 ----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Indore
+Date & Time : 2025-07-23 09:25:57.692334
+temperature : 24.96°C
+Weather Condition   : Overcast Clouds
+----------------------------------------------------------
+
+--- Weather Data for ---
+location    : Trivandrum
+Date & Time : 2025-07-23 09:26:47.795869
+temperature : 25.46°C
+Weather Condition   : Overcast Clouds
+----------------------------------------------------------

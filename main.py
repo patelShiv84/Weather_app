@@ -46,25 +46,5 @@ def main_menu():
 if __name__ == "__main__":
     main_menu()
 
-
-
-
-
-
-
-
-
-
-
-# while True:
-    
-#     city = input("Enter City name: ")
-#     if city:
-#         weather_data = get_weather_data(city)
-#         if weather_data:
-#                 print(f"City Name: {weather_data['Location']}")
-#                 print(f"Date & Time : {datetime.now()}")
-#                 print(f"Temperature: {weather_data['temperature']}°C")
-#                 print(f"Weather Condition: {weather_data['condition']}")
         
 
